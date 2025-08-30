@@ -2,6 +2,8 @@
 
 Este projeto é uma aplicação web de página única que apresenta um formulário de endereço. A principal funcionalidade é o preenchimento automático dos campos de endereço (rua, bairro, cidade e estado) a partir de um CEP informado, utilizando a API pública [ViaCEP](https://viacep.com.br/).
 
+<img width="1228" height="493" alt="image" src="https://github.com/user-attachments/assets/c94644ad-5533-4416-806a-8b30544093d7" />
+
 ## Funcionalidades
 
 - **Formulário de Endereço:** Interface para inserção de dados de endereço.
